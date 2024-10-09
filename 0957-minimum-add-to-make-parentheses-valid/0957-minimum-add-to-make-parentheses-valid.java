@@ -1,19 +1,19 @@
 class Solution {
     public int minAddToMakeValid(String s) {
-        int open = 0;
+       Stack<Character> stack = new Stack<>();
         int mismatch = 0;
         for(int i = 0; i < s.length(); i++){
             if(s.charAt(i) == '(')
-            open++;
+            stack.push(s.charAt(i));
             else{
-                if(open > 0){
-                    open--;
+                if(!stack.isEmpty()){
+                    stack.pop();
                 }
                 else{
                     mismatch++;
                 }
             }
         }
-        return open + mismatch;
+        return stack.size() + mismatch;
     }
 }
