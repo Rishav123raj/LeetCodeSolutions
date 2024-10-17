@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+## Math
+|  |
+| ------- |
+| [0670-maximum-swap](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0670-maximum-swap) |
 <!---LeetCode Topics End-->
