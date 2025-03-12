@@ -1,14 +1,27 @@
 class Solution {
     public int maximumCount(int[] nums) {
-        int pos=0,neg=0;
-        for(int i=0;i<nums.length;i++){
-            if(nums[i]>0){
-                pos++;
-            }
-            if(nums[i]<0){
-                neg++;
-            }
+        int n = nums.length;
+        int left = 0, right = n - 1;
+
+        while(left <= right){
+            int mid = (left + right) / 2;
+            if(nums[mid] > 0) right = mid - 1;
+            else left = mid + 1;
         }
-        return Math.max(pos,neg);
+
+        int posCount = n - left; // left is the index of first positive element
+
+        left = 0;
+        right = n - 1;
+
+        while(left <= right){
+            int mid = (left + right) / 2;
+            if(nums[mid] < 0) left = mid + 1;
+            else right = mid - 1;
+        }
+
+        int negCount = right + 1;
+
+        return Math.max(posCount, negCount);
     }
 }
