@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0334-increasing-triplet-subsequence](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0407-trapping-rain-water-ii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0407-trapping-rain-water-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0567-permutation-in-string](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0567-permutation-in-string](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0952-word-subsets) |
@@ -494,11 +497,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0139-word-break) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0494-target-sum](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -679,4 +684,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
