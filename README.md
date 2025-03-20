@@ -456,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0854-making-a-large-island) |
+| [0871-keys-and-rooms](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0871-keys-and-rooms) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0854-making-a-large-island) |
+| [0871-keys-and-rooms](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0871-keys-and-rooms) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0820-find-eventual-safe-states) |
+| [0871-keys-and-rooms](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0871-keys-and-rooms) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2201-valid-arrangement-of-pairs) |
