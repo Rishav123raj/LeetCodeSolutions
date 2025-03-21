@@ -638,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0871-keys-and-rooms) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1558-course-schedule-iv) |
+| [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
