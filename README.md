@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0494-target-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0854-making-a-large-island) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1755-defuse-the-bomb) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0313-super-ugly-number) |
 | [0494-target-sum](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1063-best-sightseeing-pair) |
@@ -599,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -712,10 +716,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Brainteaser
 |  |
