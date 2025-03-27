@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3483-alternating-groups-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3528-reach-end-of-array-with-max-score](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3643-zero-array-transformation-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3195-separate-black-and-white-balls) |
+| [3528-reach-end-of-array-with-max-score](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3779-eat-pizzas](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3779-eat-pizzas) |
 ## Monotonic Stack
