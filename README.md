@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3643-zero-array-transformation-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3779-eat-pizzas](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3779-eat-pizzas) |
 ## Hash Table
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3779-eat-pizzas](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3779-eat-pizzas) |
 ## String
 |  |
 | ------- |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3195-separate-black-and-white-balls) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3779-eat-pizzas](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3779-eat-pizzas) |
 ## Monotonic Stack
 |  |
 | ------- |
