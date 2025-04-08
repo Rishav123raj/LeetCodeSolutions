@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0059-spiral-matrix-ii) |
 | [0139-word-break](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0239-sliding-window-maximum) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0059-spiral-matrix-ii) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2232-adding-spaces-to-a-string) |
@@ -649,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0059-spiral-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0854-making-a-large-island) |
