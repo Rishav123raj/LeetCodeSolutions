@@ -870,4 +870,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3548-find-the-count-of-good-integers](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3548-find-the-count-of-good-integers) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
