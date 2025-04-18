@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0038-count-and-say) |
 | [0139-word-break](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0567-permutation-in-string](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0768-partition-labels) |
