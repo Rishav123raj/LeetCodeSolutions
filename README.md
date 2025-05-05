@@ -683,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0806-domino-and-tromino-tiling](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1025-minimum-cost-for-tickets) |
