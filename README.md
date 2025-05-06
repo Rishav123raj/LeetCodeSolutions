@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1972-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-maximum-matrix-sum](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2107-find-unique-binary-string) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0059-spiral-matrix-ii) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2048-build-array-from-permutation](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
