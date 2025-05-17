@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0059-spiral-matrix-ii) |
+| [0075-sort-colors](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0139-word-break](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0239-sliding-window-maximum) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0475-heaters](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0475-heaters) |
 | [0567-permutation-in-string](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0368-largest-divisible-subset) |
 | [0475-heaters](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0475-heaters) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
