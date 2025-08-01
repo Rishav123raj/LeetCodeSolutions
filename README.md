@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0239-sliding-window-maximum) |
@@ -734,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
