@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3483-alternating-groups-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3528-reach-end-of-array-with-max-score) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3548-find-the-count-of-good-integers](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -1016,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Combinatorics
 |  |
 | ------- |
