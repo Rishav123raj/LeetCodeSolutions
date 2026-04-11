@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3779-eat-pizzas](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3779-eat-pizzas) |
 | [3790-fruits-into-baskets-ii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3790-fruits-into-baskets-ii) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Two Pointers
 |  |
 | ------- |
