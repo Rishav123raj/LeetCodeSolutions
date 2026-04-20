@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-maximum-matrix-sum](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2145-grid-game) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1917-maximum-average-pass-ratio) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-maximum-matrix-sum](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
