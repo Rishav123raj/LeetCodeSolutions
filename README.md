@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2448-count-number-of-bad-pairs) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2465-shifting-letters-ii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2478-longest-nice-subarray) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2465-shifting-letters-ii) |
@@ -753,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0139-word-break) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Dynamic Programming
 |  |
