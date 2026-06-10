@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3647-zero-array-transformation-iii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3647-zero-array-transformation-iii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3779-eat-pizzas](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3779-eat-pizzas) |
 ## Monotonic Stack
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3647-zero-array-transformation-iii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Prefix Sum
 |  |
@@ -978,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Rolling Hash
