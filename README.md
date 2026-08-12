@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0018-4sum) |
 | [0059-spiral-matrix-ii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0075-sort-colors) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0475-heaters](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0475-heaters) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0368-largest-divisible-subset) |
 | [0475-heaters](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0475-heaters) |
