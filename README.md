@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0018-4sum) |
 | [0059-spiral-matrix-ii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0567-permutation-in-string](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
