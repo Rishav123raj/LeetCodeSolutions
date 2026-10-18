@@ -1,0 +1,13 @@
+import pandas as pd
+
+def nth_highest_salary(employee: pd.DataFrame, N: int) -> pd.DataFrame:
+    if N <= 0:
+        return pd.DataFrame({f'getNthHighestSalary({N})': [None]})
+
+    salaries = employee['salary'].drop_duplicates().nlargest(N)
+    
+    return pd.DataFrame({
+        f'getNthHighestSalary({N})': [
+            salaries.iloc[N-1] if len(salaries) == N else None
+        ]
+    })
