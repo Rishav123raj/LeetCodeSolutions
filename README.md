@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0475-heaters) |
 | [0494-target-sum](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0494-target-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0641-design-circular-deque](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0641-design-circular-deque) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0780-max-chunks-to-make-sorted) |
@@ -918,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0239-sliding-window-maximum) |
+| [0641-design-circular-deque](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0641-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -1032,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0641-design-circular-deque](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0641-design-circular-deque) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2434-design-a-number-container-system) |
@@ -1058,6 +1061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0641-design-circular-deque](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0641-design-circular-deque) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Combinatorics
 |  |
