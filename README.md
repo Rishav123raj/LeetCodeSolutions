@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
