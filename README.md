@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0146-lru-cache) |
 | [0567-permutation-in-string](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0768-partition-labels](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0768-partition-labels) |
@@ -1037,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0146-lru-cache) |
 | [0641-design-circular-deque](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0641-design-circular-deque) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/1477-product-of-the-last-k-numbers) |
@@ -1064,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0146-lru-cache](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0146-lru-cache) |
 | [0641-design-circular-deque](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0641-design-circular-deque) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Combinatorics
@@ -1103,4 +1106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/2280-count-good-triplets-in-an-array) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
