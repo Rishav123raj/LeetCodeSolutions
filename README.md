@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0416-partition-equal-subset-sum) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0475-heaters) |
 | [0494-target-sum](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0494-target-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0368-largest-divisible-subset) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0475-heaters) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0780-max-chunks-to-make-sorted) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0313-super-ugly-number](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0313-super-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0368-largest-divisible-subset) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0670-maximum-swap](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/Rishav123raj/LeetCodeSolutions/tree/master/0900-reordered-power-of-2) |
